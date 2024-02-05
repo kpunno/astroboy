@@ -15,4 +15,3 @@ don't get hit, lest carnage ensue...
 ![carnage](https://kpunno7.files.wordpress.com/2024/02/image-1.png)
 
 
-*please don't rip my efforts to shreds. assembler is hard.*
