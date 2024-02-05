@@ -6,6 +6,8 @@
 
 you are astroboy: you find yourself flying through space, avoid the asteroids to survive.
 
+runs on [6502 Emulator](https://matrix.senecapolytechnic.ca/~chris.tyler/6502/)
+
 `s` to move up
 `d` to move down
 
