@@ -8,7 +8,7 @@ runs on [6502 Emulator](https://matrix.senecapolytechnic.ca/~chris.tyler/6502/)
 
 `w` to move up
 
-`d` to move down
+`s` to move down
 
 don't get hit, lest carnage ensue...
 
