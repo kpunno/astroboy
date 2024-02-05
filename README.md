@@ -6,8 +6,8 @@
 
 you are astroboy: you find yourself flying through space, avoid the asteroids to survive.
 
-`s` to move up
-`d` to move down
+`w` to move up
+`s` to move down
 
 don't get hit, lest carnage ensue...
 
