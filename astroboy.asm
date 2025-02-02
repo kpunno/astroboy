@@ -158,7 +158,6 @@ MOVEDOWN:
 ;; load enemies
 
 LDENEMY:
-BRK
 	LDA NMYCNT	; load enemies
 	CMP NMYMAX	; if equal to max enemies
 	BCS MVENEMY	; branch -> MVENEMY
